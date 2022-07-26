@@ -1,2 +1,2 @@
 # -LED-on-the-Arduino
-Turn on the LED on the Arduino, practical application without programming code
+Turn on the LED on the Arduino, practical application without programming code with 9v battery
